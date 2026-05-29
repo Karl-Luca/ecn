@@ -1,3 +1,7 @@
+#ignore keys
+*.pem
+
+
 BA
 .DS_Store
 BA.pub
